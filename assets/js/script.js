@@ -31,7 +31,6 @@ $("button.indigo").click(function () {
 	$("body").removeClass().addClass("indigo");
 });
 
-// 
 
 $("button.coral").click(function () {
 	$("body").removeClass().addClass("coral");
